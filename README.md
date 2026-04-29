@@ -1,1 +1,1 @@
-Build using Cursor.
+Built using Cursor.
